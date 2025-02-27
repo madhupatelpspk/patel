@@ -167,11 +167,11 @@ img { max-width: 100%; height: auto; display: block; }
     width: 100px;
     height: 100px;
     background-color: var(--first-color);
-    border-radius: 50%;
+    border-radius: 100%;
     overflow: hidden;
 }
 
-    .about-img img { width: 100px; }
+    .about-img img { width: 90px; }
 
 .about-subtitle { font-size: var(--h2-font-size); color: var(--first-color); margin-bottom: var(--mb1); }
 .about-text { margin-bottom: var(--mb4); }
